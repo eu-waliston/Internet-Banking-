@@ -1,0 +1,52 @@
+mat-card {
+    height: auto;
+    background: #c3b9da;
+    border-radius: 5px;
+
+}
+
+h3,h5,p,b {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.logo-investimentos {
+    font-size: 90px;
+    position: relative;
+    left: 110px;
+}
+.poupanca-logo {
+    font-size: 90px;
+    position: relative;
+    left: 110px; 
+}
+.custom-height {
+    height: 100vh;
+}
+.area-logada {
+    height: 15vh;
+    padding: 30px;
+    background: #dcbc81;
+    color: #fff;
+    box-shadow: 0 2px 5px -2px grey;
+}
+
+strong {
+    color: white;
+
+}
+
+.button {
+
+    border: none;    
+    font-weight: bold;
+    border: 2px solid #36255e;
+
+}
+
+.button:hover {
+    background: #36255e;
+    color: #fff;
+    border: 1px solid rgb(189, 10, 212);
+    transition: 1s;
+}
